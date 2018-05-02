@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Buses>
+  <Bus Mark = "Богдан" Model ="А302.20" Year="2016" Type="Городской" SeatPlace="26" FullCapacity ="65" ></Bus>
+  <Bus Mark = "Neoplan" Model ="N2216 SHD Tourliner" Year="2010" Type="Туристический" SeatPlace="49+2" FullCapacity ="51"></Bus>
+  <Bus Mark = "МАЗ-206" Model ="085" Year="2012" Type="Городской" SeatPlace="25" FullCapacity ="72"></Bus>
+</Buses>
